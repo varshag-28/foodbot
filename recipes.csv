@@ -1,0 +1,17 @@
+name,ingredients,category,diet
+Vegetable Fried Rice,"rice, vegetables, carrot, beans, onion, soy sauce",Indian,Vegetarian
+Paneer Fried Rice,"rice, paneer, vegetables, onion, soy sauce",Indian,Vegetarian
+Paneer Butter Masala,"paneer, tomato, onion, butter, cream, spices",Indian,Vegetarian
+Paneer Tikka,"paneer, yogurt, onion, capsicum, spices",Indian,Vegetarian
+Vegetable Pulao,"rice, vegetables, carrot, peas, beans, spices",Indian,Vegetarian
+Chicken Biryani,"rice, chicken, onion, tomato, spices, yogurt",Indian,Non-Vegetarian
+Chicken Fried Rice,"rice, chicken, vegetables, egg, soy sauce",Indian,Non-Vegetarian
+Chicken Curry,"chicken, onion, tomato, ginger, garlic, spices",Indian,Non-Vegetarian
+Egg Fried Rice,"rice, egg, vegetables, onion, soy sauce",Indian,Non-Vegetarian
+Egg Curry,"egg, onion, tomato, spices, coconut",Indian,Non-Vegetarian
+Vegetable Soup,"vegetables, carrot, beans, cabbage, pepper",Indian,Vegetarian
+Masala Dosa,"rice, urad dal, potato, onion, spices",Indian,Vegetarian
+Idli,"rice, urad dal, salt",Indian,Vegetarian
+Chole Masala,"chickpeas, onion, tomato, spices",Indian,Vegetarian
+Dal Rice,"rice, dal, tomato, onion, spices",Indian,Vegetarian
+
