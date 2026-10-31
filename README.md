@@ -4,7 +4,8 @@ A chat-style recipe recommendation web app. Enter the ingredients you have (or t
 
 Built with **Python, Flask, Pandas and scikit-learn**. Recommendations use **TF-IDF vectorization and cosine similarity**.
 
-<!-- Add a screenshot of the app here, e.g. ![FoodBot AI screenshot](screenshot.png) -->
+<img width="872" height="730" alt="image" src="https://github.com/user-attachments/assets/6cb066a4-746b-4e8e-ba0c-87120457359e" />
+
 
 ## Features
 
