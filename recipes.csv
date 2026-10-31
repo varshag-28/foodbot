@@ -1,17 +1,74 @@
 name,ingredients,category,diet
-Vegetable Fried Rice,"rice, vegetables, carrot, beans, onion, soy sauce",Indian,Vegetarian
-Paneer Fried Rice,"rice, paneer, vegetables, onion, soy sauce",Indian,Vegetarian
+Vegetable Fried Rice,"rice, vegetables, carrot, beans, onion, soy sauce",Indo-Chinese,Vegetarian
+Paneer Fried Rice,"rice, paneer, vegetables, onion, soy sauce",Indo-Chinese,Vegetarian
 Paneer Butter Masala,"paneer, tomato, onion, butter, cream, spices",Indian,Vegetarian
 Paneer Tikka,"paneer, yogurt, onion, capsicum, spices",Indian,Vegetarian
 Vegetable Pulao,"rice, vegetables, carrot, peas, beans, spices",Indian,Vegetarian
 Chicken Biryani,"rice, chicken, onion, tomato, spices, yogurt",Indian,Non-Vegetarian
-Chicken Fried Rice,"rice, chicken, vegetables, egg, soy sauce",Indian,Non-Vegetarian
+Chicken Fried Rice,"rice, chicken, vegetables, egg, soy sauce",Indo-Chinese,Non-Vegetarian
 Chicken Curry,"chicken, onion, tomato, ginger, garlic, spices",Indian,Non-Vegetarian
-Egg Fried Rice,"rice, egg, vegetables, onion, soy sauce",Indian,Non-Vegetarian
+Egg Fried Rice,"rice, egg, vegetables, onion, soy sauce",Indo-Chinese,Non-Vegetarian
 Egg Curry,"egg, onion, tomato, spices, coconut",Indian,Non-Vegetarian
-Vegetable Soup,"vegetables, carrot, beans, cabbage, pepper",Indian,Vegetarian
-Masala Dosa,"rice, urad dal, potato, onion, spices",Indian,Vegetarian
-Idli,"rice, urad dal, salt",Indian,Vegetarian
+Vegetable Soup,"vegetables, carrot, beans, cabbage, pepper",Soup,Vegetarian
+Masala Dosa,"rice, urad dal, potato, onion, spices",South Indian,Vegetarian
+Idli,"rice, urad dal, salt",South Indian,Vegetarian
 Chole Masala,"chickpeas, onion, tomato, spices",Indian,Vegetarian
-Dal Rice,"rice, dal, tomato, onion, spices",Indian,Vegetarian
-
+Dal Rice,"rice, dal, tomato, onion, spices",South Indian,Vegetarian
+Palak Paneer,"spinach, paneer, onion, tomato, garlic, cream, spices",Indian,Vegetarian
+Matar Paneer,"green peas, paneer, onion, tomato, ginger, spices",Indian,Vegetarian
+Aloo Gobi,"potato, cauliflower, onion, tomato, turmeric, spices",Indian,Vegetarian
+Rajma Masala,"kidney beans, onion, tomato, ginger, garlic, spices",Indian,Vegetarian
+Dal Tadka,"toor dal, onion, tomato, garlic, cumin, ghee",Indian,Vegetarian
+Vegetable Biryani,"rice, mixed vegetables, yogurt, onion, mint, spices",Indian,Vegetarian
+Bhindi Masala,"okra, onion, tomato, turmeric, spices",Indian,Vegetarian
+Baingan Bharta,"brinjal, onion, tomato, garlic, green chilli, spices",Indian,Vegetarian
+Mushroom Masala,"mushroom, onion, tomato, cream, spices",Indian,Vegetarian
+Aloo Paratha,"wheat flour, potato, green chilli, butter, spices",Indian,Vegetarian
+Paneer Paratha,"wheat flour, paneer, onion, green chilli, butter, spices",Indian,Vegetarian
+Vegetable Kurma,"mixed vegetables, coconut, onion, tomato, spices",South Indian,Vegetarian
+Sambar,"toor dal, tamarind, mixed vegetables, tomato, onion, sambar powder",South Indian,Vegetarian
+Curd Rice,"rice, curd, mustard seeds, curry leaves, ginger, green chilli",South Indian,Vegetarian
+Lemon Rice,"rice, lemon, peanuts, mustard seeds, curry leaves, turmeric",South Indian,Vegetarian
+Tomato Rice,"rice, tomato, onion, curry leaves, mustard seeds, spices",South Indian,Vegetarian
+Ven Pongal,"rice, moong dal, ghee, pepper, cumin, cashew",South Indian,Vegetarian
+Rava Upma,"semolina, onion, mustard seeds, curry leaves, green chilli, carrot",South Indian,Vegetarian
+Onion Uttapam,"rice batter, onion, tomato, green chilli, coriander",South Indian,Vegetarian
+Poha,"flattened rice, onion, peanuts, turmeric, curry leaves, lemon",Indian,Vegetarian
+Butter Chicken,"chicken, butter, tomato, cream, onion, spices",Indian,Non-Vegetarian
+Tandoori Chicken,"chicken, yogurt, lemon, ginger, garlic, spices",Indian,Non-Vegetarian
+Chicken 65,"chicken, curd, chilli powder, ginger, garlic, curry leaves",South Indian,Non-Vegetarian
+Mutton Curry,"mutton, onion, tomato, ginger, garlic, spices",Indian,Non-Vegetarian
+Fish Curry,"fish, coconut, tomato, onion, tamarind, spices",South Indian,Non-Vegetarian
+Fish Fry,"fish, chilli powder, turmeric, lemon, ginger, garlic",South Indian,Non-Vegetarian
+Prawn Masala,"prawns, onion, tomato, ginger, garlic, spices",Indian,Non-Vegetarian
+Egg Biryani,"rice, egg, onion, yogurt, mint, spices",Indian,Non-Vegetarian
+Egg Bhurji,"egg, onion, tomato, green chilli, spices",Indian,Non-Vegetarian
+Masala Omelette,"egg, onion, green chilli, tomato, coriander",Snack,Non-Vegetarian
+Chicken Soup,"chicken, carrot, garlic, ginger, pepper",Soup,Non-Vegetarian
+Tomato Soup,"tomato, onion, garlic, butter, pepper",Soup,Vegetarian
+Sweet Corn Soup,"sweet corn, carrot, spring onion, pepper, corn flour",Soup,Vegetarian
+Mushroom Soup,"mushroom, butter, cream, garlic, pepper",Soup,Vegetarian
+Vegetable Noodles,"noodles, cabbage, carrot, capsicum, soy sauce, garlic",Indo-Chinese,Vegetarian
+Chicken Noodles,"noodles, chicken, cabbage, carrot, soy sauce, garlic",Indo-Chinese,Non-Vegetarian
+Gobi Manchurian,"cauliflower, corn flour, soy sauce, garlic, spring onion, chilli sauce",Indo-Chinese,Vegetarian
+Paneer Chilli,"paneer, capsicum, onion, soy sauce, chilli sauce, garlic",Indo-Chinese,Vegetarian
+Chilli Chicken,"chicken, capsicum, onion, soy sauce, chilli sauce, garlic",Indo-Chinese,Non-Vegetarian
+Vegetable Momos,"flour, cabbage, carrot, onion, soy sauce, garlic",Chinese,Vegetarian
+Margherita Pizza,"pizza base, tomato sauce, mozzarella cheese, basil",Italian,Vegetarian
+Pasta Arrabbiata,"pasta, tomato, garlic, red chilli, olive oil, basil",Italian,Vegetarian
+White Sauce Pasta,"pasta, milk, butter, flour, cheese, garlic, mixed herbs",Italian,Vegetarian
+Chicken Alfredo Pasta,"pasta, chicken, cream, garlic, cheese, butter",Italian,Non-Vegetarian
+Macaroni and Cheese,"macaroni, cheese, milk, butter, flour",American,Vegetarian
+Vegetable Sandwich,"bread, cucumber, tomato, onion, butter, green chutney",Snack,Vegetarian
+Grilled Cheese Sandwich,"bread, cheese, butter",Snack,Vegetarian
+Egg Sandwich,"bread, egg, onion, butter, pepper",Snack,Non-Vegetarian
+Vegetable Burger,"burger bun, potato patty, lettuce, tomato, cheese",American,Vegetarian
+Chicken Burger,"burger bun, chicken patty, lettuce, tomato, cheese",American,Non-Vegetarian
+Grilled Chicken Salad,"chicken, lettuce, cucumber, tomato, olive oil, lemon",Salad,Non-Vegetarian
+Greek Salad,"cucumber, tomato, onion, olives, feta cheese, olive oil",Salad,Vegetarian
+Sprouts Salad,"sprouts, onion, tomato, cucumber, lemon, coriander",Salad,Vegetarian
+Bean Burrito,"tortilla, beans, rice, cheese, salsa",Mexican,Vegetarian
+Chicken Tacos,"taco shell, chicken, lettuce, tomato, cheese, salsa",Mexican,Non-Vegetarian
+Kheer,"rice, milk, sugar, cardamom, cashew",Dessert,Vegetarian
+Sooji Halwa,"semolina, ghee, sugar, cashew, cardamom",Dessert,Vegetarian
+Fruit Salad,"apple, banana, grapes, orange, honey",Dessert,Vegetarian
